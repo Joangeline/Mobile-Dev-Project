@@ -1,4 +1,4 @@
-# Advice Exam API to be used for Mobile Dev Project
+# advice_exam
 
 A new Flutter project.
 
